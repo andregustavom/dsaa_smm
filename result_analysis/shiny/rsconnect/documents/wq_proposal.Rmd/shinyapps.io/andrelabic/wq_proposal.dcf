@@ -1,0 +1,12 @@
+name: wq_proposal
+title: wq_proposal
+username:
+account: andrelabic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2091063
+bundleId: 3089076
+url: https://andrelabic.shinyapps.io/wq_proposal/
+when: 1588315447.54042
+asMultiple: FALSE
+asStatic: FALSE

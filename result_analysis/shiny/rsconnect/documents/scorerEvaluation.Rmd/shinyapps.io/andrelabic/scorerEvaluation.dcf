@@ -1,0 +1,12 @@
+name: scorerEvaluation
+title: scorerEvaluation
+username:
+account: andrelabic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1007820
+bundleId: 2253596
+url: https://andrelabic.shinyapps.io/scorerEvaluation/
+when: 1563772354.87243
+asMultiple: FALSE
+asStatic: FALSE

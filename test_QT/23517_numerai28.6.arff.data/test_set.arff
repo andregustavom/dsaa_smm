@@ -1,0 +1,25 @@
+@relation test_set
+@attribute attribute_0 numeric
+@attribute attribute_1 numeric
+@attribute attribute_2 numeric
+@attribute attribute_3 numeric
+@attribute attribute_4 numeric
+@attribute attribute_5 numeric
+@attribute attribute_6 numeric
+@attribute attribute_7 numeric
+@attribute attribute_8 numeric
+@attribute attribute_9 numeric
+@attribute attribute_10 numeric
+@attribute attribute_11 numeric
+@attribute attribute_12 numeric
+@attribute attribute_13 numeric
+@attribute attribute_14 numeric
+@attribute attribute_15 numeric
+@attribute attribute_16 numeric
+@attribute attribute_17 numeric
+@attribute attribute_18 numeric
+@attribute attribute_19 numeric
+@attribute attribute_20 numeric
+@attribute class {'0','1'}
+@data
+0.380340416019549,0.162265561932897,0.482623161298202,0.601252656264921,0.764957271209216,0.566204275687074,0.676532161949758,0.39483306661697,0.472106998883778,0.627814316306397,0.397292417784353,0.553813004383967,0.406846940490438,0.741454745756746,0.385130788391444,0.274398541009943,0.955181618057111,0.412697749912411,0.47833699195362,0.672007828935812,0.493758393630072,'0'

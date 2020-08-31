@@ -1,0 +1,28 @@
+
+Random forest of 500 trees, each constructed while considering 4 random features.
+Out of bag error: 0
+
+
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 382 118 |   a = 0
+   0   0 |   b = 1
+Percentuali di ogni classe (Classify e count):
+Class 0 : 76.4% with error:-23.599999999999998%
+Class 1 : 23.599999999999998% with error:23.599999999999998%
+Percentuali di ogni classe con metodo Adjusted Count (Forman):
+Class 0 : 94.22332043735742%
+Class 1 : 5.776679562642523%
+Percentuali di ogni classe con metodo Adjusted Count (mediana):
+Class 0 : 95.55899142951093%
+Class 1 : 4.441008570489028%
+Percentuali reali di ogni classe:
+Class 0 : 100.0%
+Class 1 : 0.0%
+Percentuali di ogni classe con metodo Adjusted Count (Forman) con matrice totale:
+Class 0 : 94.24980923528598%
+Class 1 : 5.750190764714013%
+

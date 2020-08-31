@@ -1,0 +1,12 @@
+name: DyS_description
+title: DyS_description
+username:
+account: insectsensor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 353833
+bundleId: 1502832
+url: https://insectsensor.shinyapps.io/DyS_description/
+when: 1532656792.41422
+asMultiple: FALSE
+asStatic: FALSE

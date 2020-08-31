@@ -1,0 +1,12 @@
+name: dysyn
+title: dysyn
+username:
+account: quantification
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1124267
+bundleId: 2710371
+url: https://quantification.shinyapps.io/dysyn/
+when: 1578344907.2864
+asMultiple: FALSE
+asStatic: FALSE
